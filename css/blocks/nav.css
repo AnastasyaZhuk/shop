@@ -1,0 +1,10 @@
+.nav__list {
+    display: flex;
+    font-style: 12px;
+    font-weight: 700;
+
+}
+
+.nav__item:not(:last-child){
+    margin-right: 30px;
+}

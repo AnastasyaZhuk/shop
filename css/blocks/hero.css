@@ -1,0 +1,48 @@
+.hero {
+
+    margin-bottom: 80px;
+}
+
+
+.hero__top {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.hero__card {
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+.hero__title-wrap {
+    margin-top: 90px;
+}
+
+.header__title {
+    font-size: 60px;
+}
+
+.header__subtitle {
+    display: block;
+    padding: 5px;
+    color: #fff;
+    background-color: #70BDF2;
+    white-space: nowrap;
+    position: absolute;
+    z-index: 1;
+}
+
+.hero__right {
+    width: 50%;
+    margin-left: auto;
+}
+
+.hero__img {
+    width: 100%;
+}
+
+.hero__advantages {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}

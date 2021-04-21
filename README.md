@@ -5,5 +5,4 @@
 * CSS Flexbox
 * CSS Grid
 
-
-
+[Посмотреть демо](https://anastasyazhuk.github.io/shop/)
